@@ -1,0 +1,12 @@
+{
+  "name": "genpark-voice-call-dtmf-sip-telephony-router-skill",
+  "version": "1.0.0",
+  "description": "PSTN/SIP voice telephony state machine managing DTMF tone decoders, call transfer handoffs and IVR navigation.",
+  "category": "Voice AI & Real-Time Audio Streaming",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-voice-call-dtmf-sip-telephony-router-skill",
+  "verified": true,
+  "stars": 8
+}
